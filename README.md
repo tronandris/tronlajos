@@ -1,2 +1,2 @@
-# tronlajos.github.io
+# tronlajos
 Trón Lajos Konrád honlapja
