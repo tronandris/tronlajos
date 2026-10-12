@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: kezdőlap
+title: Kezdőlap
 
 # Your name to show in the footer
 author: Trón András
@@ -20,11 +20,11 @@ author: Trón András
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
+  Rólam: "aboutme"
+  Erőforrások:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Szerző lapja: "https://deanattali.com"
 
 ################
 # --- Logo --- #
